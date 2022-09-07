@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80662195427",
+    "project_id": "starplayers-d9781",
+    "storage_bucket": "starplayers-d9781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80662195427:android:b4b0ab34b687910177e9d6",
+        "android_client_info": {
+          "package_name": "com.example.star_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80662195427-bg1iq4ltk2mgucjcb8n8kcr4hli79lae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPvHGXZjujvm10UqR8kiPgwk8DUxBg6Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80662195427-bg1iq4ltk2mgucjcb8n8kcr4hli79lae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
